@@ -1,5 +1,0 @@
-Expired product
-Name: Apple, price = 12, weight = 0,5, expDate = 4, 21.08.2021
-Name: milk, price = 30, weight = 23, expDate = 2, 4.02.2021
-Name: Milk, price = 289, weight = 0,875, expDate = 16, 20.08.2021
-Name: Cheese, price = 289, weight = 0,875, expDate = 120, 3.04.2021

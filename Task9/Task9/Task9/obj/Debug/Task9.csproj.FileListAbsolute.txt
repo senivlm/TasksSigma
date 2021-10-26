@@ -1,7 +1,0 @@
-C:\Users\Ростик\source\repos\Task9\Task9\obj\Debug\Task9.csproj.AssemblyReference.cache
-C:\Users\Ростик\source\repos\Task9\Task9\obj\Debug\Task9.csproj.CoreCompileInputs.cache
-C:\Users\Ростик\source\repos\Task9\Task9\bin\Debug\Task9.exe.config
-C:\Users\Ростик\source\repos\Task9\Task9\bin\Debug\Task9.exe
-C:\Users\Ростик\source\repos\Task9\Task9\bin\Debug\Task9.pdb
-C:\Users\Ростик\source\repos\Task9\Task9\obj\Debug\Task9.exe
-C:\Users\Ростик\source\repos\Task9\Task9\obj\Debug\Task9.pdb

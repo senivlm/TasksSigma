@@ -1,0 +1,7 @@
+C:\Users\Ростик\source\repos\Task8_3\Task8_3\bin\Debug\Task8_3.exe.config
+C:\Users\Ростик\source\repos\Task8_3\Task8_3\bin\Debug\Task8_3.exe
+C:\Users\Ростик\source\repos\Task8_3\Task8_3\bin\Debug\Task8_3.pdb
+C:\Users\Ростик\source\repos\Task8_3\Task8_3\obj\Debug\Task8_3.csproj.AssemblyReference.cache
+C:\Users\Ростик\source\repos\Task8_3\Task8_3\obj\Debug\Task8_3.csproj.CoreCompileInputs.cache
+C:\Users\Ростик\source\repos\Task8_3\Task8_3\obj\Debug\Task8_3.exe
+C:\Users\Ростик\source\repos\Task8_3\Task8_3\obj\Debug\Task8_3.pdb

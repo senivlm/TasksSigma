@@ -7,7 +7,7 @@ using System.IO;
 namespace Task9
 {
     class Program
-    {
+    {// обробники подій слід винести в окремі класи з статичними методами
         static void WriteWrongItemIntoFile(string line)
         {
             using (StreamWriter sw = new StreamWriter(@"C:\Users\Ростик\source\repos\Task9\Task9\WrongProductsInput.txt", true))
